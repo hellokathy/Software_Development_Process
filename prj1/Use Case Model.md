@@ -14,5 +14,5 @@
 * UC8 : Save User - Database saves the user for synchronizing
 * UC9 : Delete User - User deletes a user and the database deletes the user
 * UC10 : Save Task- The database saves a task for synchronizing
-* UC11 : Synchronize Apps - Database synchronizes android and web app 
+* UC11 : Synchronize Apps - Database synchronizes android and web app  (for future expansion)
 
